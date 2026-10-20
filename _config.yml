@@ -1,3 +1,4 @@
 title: "Python Course Portfolio"
 theme: minima
-# force update
+plugins:
+  - jekyll-feed

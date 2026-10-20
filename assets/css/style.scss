@@ -1,0 +1,25 @@
+SCSS
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom Pink Styling */
+body {
+  background-color: #fffafc;
+}
+
+a {
+  color: #d63384 !important;
+}
+
+h1, h2, h3 {
+  color: #c2185b !important;
+  border-bottom: 2px solid #f8bbd0;
+  padding-bottom: 4px;
+}
+
+.site-header {
+  background-color: #fce4ec !important;
+  border-bottom: 1px solid #f8bbd0;
+}

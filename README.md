@@ -1,2 +1,0 @@
-# khrizmanmichal.github.io
-Hello

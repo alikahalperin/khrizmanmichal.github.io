@@ -1,4 +1,3 @@
-
 # Hello! I'm Guy 👋
 
 Welcome to my personal page for my Python course.
